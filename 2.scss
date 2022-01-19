@@ -1,0 +1,15 @@
+$mauchu:brown;
+$maunen:lightblue;
+$dorong: 1000px;
+body{
+    background-color: $maunen;
+}
+h2{
+    text-align: center;
+    color: $mauchu;
+    font-family: segoe ui light;
+    text-transform: uppercase;
+    background: black;
+    padding: 20px;
+    width: $dorong/2;
+}
